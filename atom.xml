@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-04T17:16:19.180Z</updated>
+  <updated>2023-03-04T17:38:31.133Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日记</title>
+    <link href="http://example.com/2023/03/05/diary/"/>
+    <id>http://example.com/2023/03/05/diary/</id>
+    <published>2023-03-04T17:23:56.000Z</published>
+    <updated>2023-03-04T17:38:31.133Z</updated>
+    
+    <content type="html"><![CDATA[<span id="more"></span><h1 id="公元2023年"><a href="#公元2023年" class="headerlink" title="公元2023年"></a>公元2023年</h1><h2 id="Mars"><a href="#Mars" class="headerlink" title="Mars"></a>Mars</h2><h3 id="四"><a href="#四" class="headerlink" title="四"></a>四</h3><p>2023年3月5日01点26分<br>周末<br>今天啥也没学<br>大雾作业 五道题<br>关于运动轨迹与运动方程<br>知道运动方程就求导 知道速度方程就积分<br>写了半个多小时<br>数据结构的顺序表上课就写完了 哔哩哔哩大学自学一节课<br>下周二交<br>数学还没写 上节课的内容还没复习<br>英语是一点也不想做<br>hexo上传图片的事想了半天<br>-修改了主题页面图床链接 不再使用图床改为本地文件<br>-markdown的语法储存 up up！<br>-增加语法漏洞</p><p>rust有点意思 但是上学期学的c全忘了<br>（或者说应该重新学了</p><p>tomatoes烂番茄的主题非常好 blog的前后端终极目标<br>原了一会 护摩拉满了 纠缠39/70<br>刷会抖音睡觉<br>明天计划把volants文档 看一下级数的课 然后开摆！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h1 id=&quot;公元2023年&quot;&gt;&lt;a href=&quot;#公元2023年&quot; class=&quot;headerlink&quot; title=&quot;公元2023年&quot;&gt;&lt;/a&gt;公元2023年&lt;/h1&gt;&lt;h2 id=&quot;Mars&quot;&gt;&lt;a href=&quot;#Mars&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test_img</title>
